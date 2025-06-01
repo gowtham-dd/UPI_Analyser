@@ -29,8 +29,7 @@
   <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" width="180px">
 </p>
 
-_Example GIF or Screenshot Coming Soon_
-
+[_Preview_](https://upianalyser-mbjycuuhjanu4zjzvdgehv.streamlit.app/)
 ---
 
 ## 🚀 Getting Started on Hugging Face
