@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+pdfplumber
+statsmodels
+google-generativeai
+plotly 
+matplotlib
